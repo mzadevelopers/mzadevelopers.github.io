@@ -1,2 +1,0 @@
-# mzadevelopers.github.io
-Web
